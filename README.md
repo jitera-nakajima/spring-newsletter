@@ -11,6 +11,7 @@
 - Lombok
 - Swagger (Open API)
 
+
 ## Customization
 
 - You can customize ```token information (secret key, issuer, expiry date) ``` in [*application.yml*](https://github.com/Genc/spring-boot-boilerplate/blob/master/src/main/resources/application.yml#L40) file.
